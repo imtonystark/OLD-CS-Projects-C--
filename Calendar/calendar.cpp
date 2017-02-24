@@ -1,20 +1,20 @@
 /******************************************************************************
 ** File Name   : calendar.cpp
 ** Description : Source code example from CS121 project. Displays a calendar
-**				 for a single month, populates appropriate weeks, days, and
-**				 dates. Checks and accounts for leap years.
+**		 for a single month, populates appropriate weeks, days, and
+**		 dates. Checks and accounts for leap years.
 **
-** Coded By	   : Jesse L Blum
+** Coded By    : Jesse L Blum
 ** Created     : 10/22/2015
 **
 ** Addit. Notes: The design requirements for this project are very similar to
-**				 the Calendar application published in "Basic Computer Games,
-**				 MicroComputer Edition" by David H. Ahl in 1978. The book and
-**				 source were not known to me at the time, and the resulting
-**				 code below was my own work. I've resisted the urge to clean
-**				 this version up, and left it in its original state as an
-**				 example of how, at the time,i solved such problems without
-**				 knowledge beyond the c++ standard data types and console io.
+**		 the Calendar application published in "Basic Computer Games,
+**		 MicroComputer Edition" by David H. Ahl in 1978. The book and
+**		 source were not known to me at the time, and the resulting
+**		 code below was my own work. I've resisted the urge to clean
+**		 this version up, and left it in its original state as an
+**		 example of how, at the time,i solved such problems without
+**		 knowledge beyond the c++ standard data types and console io.
 ******************************************************************************/
 
 #include <iostream>
